@@ -69,7 +69,7 @@ footer:
   icon: user
 
   # If not defined, will be used `author` from Hexo main config.
-  copyright: 'HOSTED BY <a href="https://pages.coding.me">CODING PAGES</a>'
+  copyright: ''
   # -------------------------------------------------------------
   # Hexo link (Powered by Hexo).
   powered: false
